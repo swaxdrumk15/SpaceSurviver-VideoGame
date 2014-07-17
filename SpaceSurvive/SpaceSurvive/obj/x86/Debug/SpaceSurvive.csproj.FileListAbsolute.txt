@@ -1,0 +1,9 @@
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\Content\asteroid.xnb
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\Content\player.xnb
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\SpaceSurvive.exe
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\SpaceSurvive.pdb
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\obj\x86\Debug\SpaceSurvive.csprojResolveAssemblyReference.cache
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\obj\x86\Debug\SpaceSurvive.exe
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\obj\x86\Debug\SpaceSurvive.pdb
+c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\Content\galaxy.xnb

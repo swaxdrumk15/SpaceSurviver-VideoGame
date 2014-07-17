@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroid.png</Source>
+      <Name>asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\Content\asteroid.xnb</Output>
+      <Time>2014-06-28T13:41:36.4690534+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2014-06-28T13:44:56.5978539+03:00</Time>
+    </Item>
+    <Item>
+      <Source>galaxy.jpg</Source>
+      <Name>galaxy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\Content\galaxy.xnb</Output>
+      <Time>2014-06-28T13:37:30.0902647+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{08D15ADB-1604-4F7E-995D-E500D932A117}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurviveContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\shin0bib0y\documents\visual studio 2012\Projects\SpaceSurvive\SpaceSurvive\SpaceSurvive\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-27T17:23:24.2961143+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
